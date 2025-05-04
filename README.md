@@ -1,6 +1,7 @@
 # BindingTypesDemo
 
 WPF 绑定资源类型演示项目，基于 .NET Core 8.0。
+![image](https://github.com/user-attachments/assets/558f80df-470a-44cd-a520-e93d7df23f88)
 
 ## 项目描述
 
